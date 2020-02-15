@@ -8,7 +8,7 @@
     - personal growth;
     - interesting projects;
     - to get opportunity to learn some new and share my experiences in the future;
-    - to be a part of good team.  
+    - to be a part of good team.<br/>
     Considering my work experience (included the sales field), I can definitely say I'm a hardworking person with good communication skills.
 4. **My skills**
     - Programming languages:
@@ -54,7 +54,7 @@
     - Institute of information technology BSUIR, Software department, Software Engeneer (2018-2020);   
     *Courses:*
         - QA Academy (2014);
-        - RSSchool (2020).  
+        - RSSchool (2020).<br/>
     *Online learning:*
         - CISCO - CCNA 1 Networking Basics, CCNA Exploration.
 8. **English-level**   
