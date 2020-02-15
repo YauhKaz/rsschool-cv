@@ -9,7 +9,6 @@ It's important to me:
     - interesting projects;
     - to get opportunity to learn some new and share my experiences in the future;
     - to be a part of good team.   
-    
 Considering my work experience (included the sales field), I can definitely say I'm a hardworking person with good communication skills.
 4. **My skills**
     - Programming languages:
@@ -56,7 +55,6 @@ Considering my work experience (included the sales field), I can definitely say 
     *Courses:*
         - QA Academy (2014);
         - RSSchool (2020).   
-
     *Online learning:*
         - CISCO - CCNA 1 Networking Basics, CCNA Exploration.
 8. **English-level**   
