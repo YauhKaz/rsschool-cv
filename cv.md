@@ -50,8 +50,8 @@
 7. **Education**
     - Vitebsk branch of the educational establishment "Belarusian State Academy of Telecommunications", Software department, Telecommunications Technician (2006-2010);
     - Belarusian State University of Informatics and Radioelectronics, Telecommunacation department, Telecommunications Engeneer (2010-2016);
-    - Institute of information technology BSUIR, Software department, Software Engeneer (2018-2020);  
-    *Courses and Online learning:*
+    - Institute of information technology BSUIR, Software department, Software Engeneer (2018-2020);<p>
+*Courses and Online learning:*
         - QA Academy (2014);
         - RSSchool (2020);
         - CISCO - CCNA 1 Networking Basics, CCNA Exploration.
