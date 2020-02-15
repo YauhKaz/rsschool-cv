@@ -3,14 +3,13 @@
 2. **Phone:** +375 29 291 01 44   
    **email:** klon19892@gmail.com
 3. **Summary**   
-I'm an engineer according to my university education, and I can definitely say I always like to make smth, e.g. electrical circuitsatics or configurations. Unfortunately, once I had to change activity field for personal reasons and I've become a sales manager. Two years ago, I decided to continue to work in my technical specialty. I studied all the possible courses, trainings, additional education. After it, I realized development is the closest area for me. Therefore, I applied for BSUIR retraining courses.    
-It's important to me:
+    I'm an engineer according to my university education, and I can definitely say I always like to make smth, e.g. electrical circuitsatics or configurations. Unfortunately, once I had to change activity field for personal reasons and I've become a sales manager. Two years ago, I decided to continue to work in my technical specialty. I studied all the possible courses, trainings, additional education. After it, I realized development is the closest area for me. Therefore, I applied for BSUIR retraining courses.    
+    It's important to me:
     - personal growth;
     - interesting projects;
     - to get opportunity to learn some new and share my experiences in the future;
-    - to be a part of good team.
-    
-Considering my work experience (included the sales field), I can definitely say I'm a hardworking person with good communication skills.
+    - to be a part of good team.  
+    Considering my work experience (included the sales field), I can definitely say I'm a hardworking person with good communication skills.
 4. **My skills**
     - Programming languages:
         - C/C++;
@@ -55,7 +54,7 @@ Considering my work experience (included the sales field), I can definitely say 
     - Institute of information technology BSUIR, Software department, Software Engeneer (2018-2020);   
     *Courses:*
         - QA Academy (2014);
-        - RSSchool (2020).   
+        - RSSchool (2020).  
     *Online learning:*
         - CISCO - CCNA 1 Networking Basics, CCNA Exploration.
 8. **English-level**   
