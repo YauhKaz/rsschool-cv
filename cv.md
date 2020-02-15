@@ -2,8 +2,8 @@
 1. **Kozenkov Evgen**  
 2. **Phone:** +375 29 291 01 44   
    **email:** klon19892@gmail.com
-3. **Summary**   
-    I'm an engineer according to my university education, and I can definitely say I always like to make smth, e.g. electrical circuitsatics or configurations. Unfortunately, once I had to change activity field for personal reasons and I've become a sales manager. Two years ago, I decided to continue to work in my technical specialty. I studied all the possible courses, trainings, additional education. After it, I realized development is the closest area for me. Therefore, I applied for BSUIR retraining courses.    
+3. **Summary**<br/>
+    I'm an engineer according to my university education, and I can definitely say I always like to make smth, e.g. electrical circuitsatics or configurations. Unfortunately, once I had to change activity field for personal reasons and I've become a sales manager. Two years ago, I decided to continue to work in my technical specialty. I studied all the possible courses, trainings, additional education. After it, I realized development is the closest area for me. Therefore, I applied for BSUIR retraining courses.<br/>    
     It's important to me:
     - personal growth;
     - interesting projects;
@@ -51,7 +51,7 @@
 7. **Education**
     - Vitebsk branch of the educational establishment "Belarusian State Academy of Telecommunications", Software department, Telecommunications Technician (2006-2010);
     - Belarusian State University of Informatics and Radioelectronics, Telecommunacation department, Telecommunications Engeneer (2010-2016);
-    - Institute of information technology BSUIR, Software department, Software Engeneer (2018-2020);   
+    - Institute of information technology BSUIR, Software department, Software Engeneer (2018-2020);<br/>   
     *Courses:*
         - QA Academy (2014);
         - RSSchool (2020).<br/>
