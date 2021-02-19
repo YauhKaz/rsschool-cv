@@ -76,4 +76,4 @@
         - RSSchool (2020);
         - CISCO - CCNA 1 Networking Basics, CCNA Exploration.
 8. **English-level**   
- Pre-Intermediate+ (B1). I'm learning in the online school "Skyeng".
+ Intermediate+ (B1). I'm learning in the online school "Skyeng".
