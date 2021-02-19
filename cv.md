@@ -12,6 +12,7 @@
 4. **My skills**
     - Programming languages:
         - C/C++;
+        - Html, CSS, JS;
         - C#.
     - Frameworks:
         - .NET Framework;
@@ -21,6 +22,7 @@
     - Methodologies:
         - Agile;
         - Waterfall;
+        - Kanban;
         - SCRUM.
     - Tools:
         - Ration Rose;
@@ -29,6 +31,8 @@
         - AutoCad;
         - Adobe Photoshop;
         - Jira;
+        - Visual Studio;
+        - Visual Code;
         - Confluence.
 5. **Code examples**
     1. [Web application for registering of company employees](https://drive.google.com/drive/folders/10toGUP3QqlV7WUYfHcV_GhiNghrm4dT8)   
@@ -44,8 +48,24 @@
         - Framework: WPF;
         - Database: MS SQL;
         - Tools: Ration Rose, erWin.
+    3. [Web-page "Shelter"](https://rolling-scopes-school.github.io/yauhkaz-JS2020Q3/shelter/pages/main/index.html)  
+       It was used:
+        - Development environment: Visual Code;
+        - Programming language: Html, CSS.
+     4. [Web application "Calculator"](https://rolling-scopes-school.github.io/yauhkaz-JS2020Q3/calculator/)  
+       It was used:
+        - Development environment: Visual Code;
+        - Programming language: JS.
+     5. [Web application "Momentum"](https://rolling-scopes-school.github.io/yauhkaz-JS2020Q3/momentum1/)  
+       It was used:
+        - Development environment: Visual Code;
+        - Programming language: JS.
+     6. [Web application "Virtual-keyboard"](https://rolling-scopes-school.github.io/yauhkaz-JS2020Q3/virtual-keyboard/)  
+       It was used:
+        - Development environment: Visual Code;
+        - Programming language: JS.
 6. **Experience**
-    - coding tests in QA Academy (2014) and IIT BSUIR (2018-2020);
+    - coding tests in QA Academy (2014), RSSchool (2020) and IIT BSUIR (2018-2020);
     - labs projects in IIT BSUIR.
 7. **Education**
     - Vitebsk branch of the educational establishment "Belarusian State Academy of Telecommunications", Software department, Telecommunications Technician (2006-2010);
