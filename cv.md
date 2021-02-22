@@ -2,8 +2,8 @@
 1. **Kozenkov Evgen**  
 2. **Phone:** +375 29 291 01 44   
    **email:** klon19892@gmail.com
-3. **Summary**   
-    I'm an engineer according to my university education, and I can definitely say I always like to make smth, e.g. electrical circuitsatics or configurations. Unfortunately, once I had to change activity field for personal reasons and I've become a sales manager. Two years ago, I decided to continue to work in my technical specialty. I studied all the possible courses, trainings, additional education. After it, I realized development is the closest area for me. Therefore, I applied for BSUIR retraining courses. Considering my work experience (included the sales field), I can definitely say I'm a hardworking person with good communication skills.   
+3. **Summary**  
+    I’m an engineer according to my university  degree, and I can definitely say I keen on smth like electrical circuitsatics or configurations. Unfortunately, because of personal reasons I had to change activity field  and I’ve become a sales manager. Two years ago I decided to continue working in my technical specialty. I studied all the possible courses, trainings, passed additional education. Later I realized that development area is much  closer for me. Therefore, I applied for BSUIR retraining courses. Considering my work experience (including the sales field), I can definitely say I’m a hardworking person with good communication skills. I like to set goals and see real results of my work.  That is why I think this position fits me and I would be a good PM forging communication between developers and customers. 
     It's important to me:
     - personal growth;
     - interesting projects;
