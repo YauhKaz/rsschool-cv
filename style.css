@@ -19,6 +19,14 @@ body{
 }
 
 footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
     text-align: center;
     padding-bottom: 20px;
+}
+
+.footer_link {
+    width: 64px;
+    height: 30px;
 }
