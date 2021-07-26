@@ -14,6 +14,10 @@ body{
     align-items: center;
 }
 
+.short-information_item {
+    list-style-type: none;
+}
+
 footer {
     text-align: center;
     padding-bottom: 20px;

@@ -6,19 +6,21 @@
         <title>CV</title>
     </head>
     <body>
-        <section class="gorizontal-block">
+        <article class="gorizontal-block">
             <h1 id="begin">My CV</h1>
-            <div class="head-block">
-                <div class="photo-area">
-                    <img src="/Photo.png" alt="my_photo" width="300" height="300">
-                </div>
+            <header class="head-block">
+                <figure class="photo-area">
+                    <img src="/Photo.png" alt="my photo" width="300" height="300">
+                </figure>
                 <div class="short-information">
-                    <p>Kozenkov Evgen<br>           
-                    Phone: +375 29 291 01 44<br>
-                    email: klon19892@gmail.com</p>
+                    <ul>
+                        <li class="short-information_item">Kozenkov Evgen</li>
+                        <li class="short-information_item">Phone: +375 29 291 01 44</li>
+                        <li class="short-information_item">email: klon19892@gmail.com</li>
+                    </ul>
                 </div>    
-            </div>                           
-            <article class="summary">    
+            </header>                           
+            <summary class="summary">    
                 <h3>Summary</h3>   
                 <p>I’m an engineer according to my university  degree, and I can definitely say I adope smth 
                     like electrical circuitsatics or configurations. Unfortunately, because of personal reasons 
@@ -36,18 +38,20 @@
                         <li>to get opportunity to learn some new and share my experiences in the future;</li>
                         <li>to be a part of good team.</li>
                     </ul>
-            </article>
-            <div class="my-skills">
+            </summary>
+            <section class="my-skills">
                 <h3>My skills</h3>
                     <ul>
                         <li> Programming languages:
                             <ul>
+                                <li> JS;</li>
                                 <li> C/C++;</li>
                                 <li> C#.</li>
                             </ul>
                         </li>
                         <li>Frameworks:
                             <ul>
+                                <li>React;</li>
                                 <li>.NET Framework;</li>
                                 <li>WPF;</li>
                                 <li>MVC;</li>
@@ -66,18 +70,26 @@
                                 <li>Ration Rose;</li>
                                 <li>ErWin;</li>
                                 <li>MS SQL Server;</li>
-                                <li>AtuoCad;</li>
+                                <li>AutoCad;</li>
                                 <li>Adobe Photoshop;</li>
                                 <li>Jira;</li>
                                 <li>Confluence.</li>
                             </ul> 
                         </li>                       
                     </ul>
-                        
-            </div>
-            <div class="code-example">
+            </section>
+            <section class="code-example">
                 <h3>Code examples</h3>
                 <ol>
+                    <li>
+                        <a href="https://yauh-kaz-todoreact.netlify.app/">Web application "To Do list"</a><br>   
+                        It was used:
+                            <ul>
+                                <li>Development environment: Visual Studio Code;</li>
+                                <li>Programming language: JS;</li>
+                                <li>Framework: React;</li>
+                            </ul>
+                    </li>
                     <li>
                         <a href="https://drive.google.com/drive/folders/10toGUP3QqlV7WUYfHcV_GhiNghrm4dT8">Web application for registering of company employees</a><br>   
                         Web-based application. It was used:
@@ -100,15 +112,15 @@
                             </ul>
                     </li>    
                 </ol>
-            </div>
-            <div class="experience">
+            </section>
+            <section class="experience">
                 <h3>Experience</h3>
                     <ul>
                         <li>coding tests in QA Academy (2014) and IIT BSUIR (2018-2020);</li>
                         <li>labs projects in IIT BSUIR.</li>
                     </ul>
-            </div>
-            <div class="education">
+            </section>
+            <section class="education">
                 <h3>Education</h3>
                 <ul>
                     <li>Vitebsk branch of the educational establishment "Belarusian State Academy of Telecommunications",
@@ -122,14 +134,14 @@
                     <li>RSSchool (2020);</li>
                     <li>CISCO - CCNA 1 Networking Basics, CCNA Exploration (2008).</li>
                 </ul>
-            </div>
-            <div class="english-level">
+            </section>
+            <section class="english-level">
                 <h3>English-level</h3>
                 <p>Intermediate+ (B1). I'm learning in the online school "Skyeng". </p> 
-            </div>
-        </section>
-    <footer>
-        <a href="#begin">В начало</a>
-    </footer>
-</body>
+            </section>
+        </article>
+        <footer>
+            <a href="#begin">В начало</a>
+        </footer>
+    </body>
 </html>
