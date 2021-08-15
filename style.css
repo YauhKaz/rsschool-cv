@@ -9,7 +9,7 @@ body{
 .short-information_item {
     list-style-type: none;
     font-size: 13px;
-    line-height: 18px;
+    line-height: 20px;
 }
 
 main { 
@@ -38,12 +38,12 @@ aside p {
     text-align: center;
 }
 
-h2 {
+h2, h1 {
     position: relative;
     text-align: center;
 }
 
-h2::after {
+h1::after {
     position: absolute;
     content: "";
     bottom: -10px;
@@ -58,6 +58,7 @@ h2::after {
 .courses__item{
     list-style-type: none; 
     line-height: 22px;
+    padding-top: 10px;
 }
 
 .courses__span{
@@ -65,15 +66,17 @@ h2::after {
     line-height: 22px;
 }
 
-footer {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    text-align: center;
-    padding-bottom: 20px;
+svg:hover {
+    transform: scale(110%);
+    fill: gold;
+    transition: transform 3s, fill 2s;
 }
 
-.footer_link {
-    width: 64px;
-    height: 30px;
+.project__link {
+    text-decoration: none;
+    color: #000;
+}
+
+.project__link:hover {
+    color: rgb(0, 107, 107);
 }
