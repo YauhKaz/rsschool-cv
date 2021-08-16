@@ -34,6 +34,10 @@ aside {
     background-color: darkcyan;
 }
 
+p {
+    font-size: 1em;
+}
+
 aside p {
     text-align: center;
 }
